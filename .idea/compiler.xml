@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="colin-app-eureka-client" />
         <module name="colin-app-eureka-server" />
+        <module name="colin-app-security-eureka-server" />
       </profile>
     </annotationProcessing>
   </component>

@@ -9,6 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>colin-app-eureka-server</module>
+        <module>colin-app-eureka-client</module>
+        <module>colin-app-security-eureka-server</module>
     </modules>
 
     <packaging>pom</packaging>

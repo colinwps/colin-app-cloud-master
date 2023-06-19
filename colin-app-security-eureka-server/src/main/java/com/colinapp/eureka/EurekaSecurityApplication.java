@@ -1,4 +1,5 @@
-package com.colinapp;
+package com.colinapp.eureka;
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,9 +7,8 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 @EnableEurekaServer
 @SpringBootApplication
-public class EurekaServerApplication {
+public class EurekaSecurityApplication {
     public static void main(String[] args) {
-        SpringApplication.run(EurekaServerApplication.class,args);
-
+        SpringApplication.run(EurekaSecurityApplication.class,args);
     }
 }
