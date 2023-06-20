@@ -11,6 +11,9 @@
         <module>colin-app-eureka-server</module>
         <module>colin-app-eureka-client</module>
         <module>colin-app-security-eureka-server</module>
+        <module>colin-app-user-service</module>
+        <module>colin-app-ribbon-service</module>
+        <module>colin-app-feign-service</module>
     </modules>
 
     <packaging>pom</packaging>

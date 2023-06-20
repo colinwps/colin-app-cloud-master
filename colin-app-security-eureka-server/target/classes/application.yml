@@ -1,0 +1,15 @@
+server:
+  port: 8004
+spring:
+  application:
+    name: colin-Eureka-Security-Server
+  security:
+    user:
+      name: colin
+      password: 123456
+eureka:
+  instance:
+    hostname: 127.0.0.1
+  client:
+    fetch-registry: false
+    register-with-eureka: false

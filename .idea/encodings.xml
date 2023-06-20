@@ -5,7 +5,13 @@
     <file url="file://$PROJECT_DIR$/colin-app-eureka-client/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/colin-app-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/colin-app-eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/colin-app-feign-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/colin-app-feign-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/colin-app-ribbon-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/colin-app-ribbon-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/colin-app-security-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/colin-app-security-eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/colin-app-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/colin-app-user-service/src/main/resources" charset="UTF-8" />
   </component>
 </project>
