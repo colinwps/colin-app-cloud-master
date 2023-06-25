@@ -14,6 +14,7 @@
         <module>colin-app-user-service</module>
         <module>colin-app-ribbon-service</module>
         <module>colin-app-feign-service</module>
+        <module>colin-app-business-service</module>
     </modules>
 
     <packaging>pom</packaging>
