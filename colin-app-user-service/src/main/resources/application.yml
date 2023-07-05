@@ -3,9 +3,13 @@ server:
 spring:
   application:
     name: colin-user-service
-eureka:
-  client:
-    register-with-eureka: true
-    fetch-registry: true
-    service-url:
-      defaultZone: http://localhost:8001/eureka
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+    #eureka:
+  #client:
+    #register-with-eureka: true
+    #fetch-registry: true
+    #service-url:
+      #defaultZone: http://localhost:8001/eureka

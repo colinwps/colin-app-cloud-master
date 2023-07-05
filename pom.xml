@@ -15,6 +15,10 @@
         <module>colin-app-ribbon-service</module>
         <module>colin-app-feign-service</module>
         <module>colin-app-business-service</module>
+        <module>colin-app-gateway-service</module>
+        <module>colin-app-sentinel-service</module>
+        <module>colin-app-admin-service</module>
+        <module>colin-app-producer-service</module>
     </modules>
 
     <packaging>pom</packaging>

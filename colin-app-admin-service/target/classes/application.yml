@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: colin-admin-service
+server:
+  port: 9001
